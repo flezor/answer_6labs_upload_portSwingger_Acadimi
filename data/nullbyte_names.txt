@@ -1,0 +1,4 @@
+# One multipart filename candidate per line
+challenge_shell.php%00.jpg
+shell.php%00.jpg
+11.php%00.jpg
