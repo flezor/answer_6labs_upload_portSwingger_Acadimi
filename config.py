@@ -4,9 +4,9 @@ BASE_DIR = Path(__file__).resolve().parent
 DATA_DIR = BASE_DIR / "data"
 OUTPUT_DIR = BASE_DIR / "output"
 
-TARGET = "https://0aeb00bd042e6b6983f96a9800c10046.web-security-academy.net/"
+TARGET = ""
 
-SESSION_COOKIE = "session=FxlQ48Uce42C063275qfDRUWqfCVwrOv"
+SESSION_COOKIE = "session="
 PROMPT_FOR_SESSION_COOKIE = True
 
 TIMEOUT = 15
